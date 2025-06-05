@@ -1,23 +1,14 @@
 
-# kahoot-gui
+# kahoot-botter
 
-A GUI for a simple Kahoot spammer. Not affiliated with Kahoot.
-### Screenshot
-![](https://i.imgur.com/w6smmnz.png)
-## How it works
+A GUI for a simple Kahoot spammer, brought back from the dead.
 
-Uses `Electron` to interface with `kahoot.js-updated`. 
+## Installation
+Open your windows terminal and run this code:
+``git clone https://github.com/detectivesheepy/kahoot-botter.git``.
+Then run the ``index.html`` file inside the folder. I reccomend creating a shortcut to the ``index.html`` for quick and easy access.
 
-## How to run
-### Prebuilt
-Download the ZIP file, extract it and open kahoot-gui.exe
-### Run it yourself
-
-run `git clone https://github.com/JeffaloBob/kahoot-gui` 
-
-Inside of the cloned repo, run `npm i`
-## How to use
-Consult the tables below.
+## How to use the GUI
 
 ### Inputs
 
