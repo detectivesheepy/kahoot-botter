@@ -23,12 +23,12 @@ Then run the ``index.html`` file inside the folder. I reccomend creating a short
 
 |Button|What it does|
 |--|--|
-| yeet | starts making the bots join |
-| toggle advanced settings menu | opens the advanced settings menu (see below) |
-| console: toggle show| shows the console |
-| show quiz infos | opens some quiz info that will be shown on the right side of the screen (WIP) |
-| kill bot spawner | stops bots from spawning |
-| make all bots leave | makes all the currently joined bots leave |
+| Deploy bots | starts making the bots join |
+| Toggle advanced settings menu | opens the advanced settings menu (see below) |
+| Console: toggle show| shows the console |
+| Show quiz infos | opens some quiz info that will be shown on the right side of the screen (WIP) |
+| Kill bot spawner | stops bots from spawning |
+| Force all bots to leave | makes all the currently joined bots leave |
 
 ### Advanced settings
 
